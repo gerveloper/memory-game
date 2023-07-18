@@ -1,0 +1,25 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+    }
+    
+    .mainDiv {
+        height: 400px;
+        margin: 0px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .grid {
+        width: 410px;
+        height: 308px;
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    img {
+        margin: 0px;
+        padding: 0px;
+    }
+    
