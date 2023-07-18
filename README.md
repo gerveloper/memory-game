@@ -1,4 +1,4 @@
-# Welocme to [memory-game](https://github.com/gerveloper/memory-game)!
+# Welcome to [memory-game](https://github.com/gerveloper/memory-game)!
 
 > HTML, CSS & JS practice
 
