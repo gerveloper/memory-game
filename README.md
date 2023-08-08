@@ -2,6 +2,10 @@
 
 > HTML, CSS & JS practice
 
+------------
+#### [WATCH IT DEPLOYED HERE!](https://gerveloper.github.io/memory-game/ "WATCH IT DEPLOYED HERE!")
+------------
+
 In this practice I employed **HTML**,  **CSS** and **JS** to create a simple memory game. 
 
 ## What I worked with:
